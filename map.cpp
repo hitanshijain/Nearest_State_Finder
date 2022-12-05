@@ -61,9 +61,9 @@ string findMajority(vector<string> state)
             count++;
     }
 
-    if (count > state.size() / 2)
-        return candidate;
-    return "None";
+    // if (count > state.size() / 2)
+    //     return candidate;
+    return candidate;
 }
 
 void county_state_print(map<double, state_county> mymap, int num_counties)
@@ -78,7 +78,7 @@ void county_state_print(map<double, state_county> mymap, int num_counties)
         cout << temp.county << ", " << temp.state << ": "
              << it->first << '\n';
     }
-    cout << findMajority(state_set);
+    cout << findMajority(state_set) << endl;
 }
 
 double CalcGPSDistance(double latitud1, double longitud1, double latitud2, double longitud2){
