@@ -3,7 +3,7 @@ This is a semester project for BU EC504 2022, all copyrights reserved.
 ## How to use?
 
 Copy files to your computer then complie and run it. After software outputs text, input the location (Latitude, Longitude)
-Then software would do automatic calculation and output nearest counties and their distances in descending order.
+Then software would do automatic calculation and output nearest counties and their distances in descending order. 
 
 ## How do we implement this?
 
@@ -13,4 +13,4 @@ Presentation link: https://docs.google.com/presentation/d/1p4IA2yMZIYUiWuGP25p6Z
 
 ## Advantages
 
-Our software can find nearest counties in a very fast speed (Avg 2.4 ms) no matter what location you input. For oversea locations, speed would be a little slow, but it is still under 15 ms, which is significantly faster than other algorithms.
+Our software can find nearest counties in a very fast speed (Avg 2.4 ms) no matter what location you input. For oversea locations, speed would be a little slow, but it is still under 15 ms, which is significantly faster than other algorithms. 
