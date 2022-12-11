@@ -11,7 +11,7 @@ We have preprocessed counties data and uploaded it to data folder, if you want t
 
 ### All compilation must be done by C++ 11 or later version.
 
-if you have question about running code and Geohash code, please contact renyu26@bu.edu
+if you have question about running code or Geohash code, please contact renyu26@bu.edu
 
 if you have question about R-B Tree code, please contact woodywan@bu.edu 
 
