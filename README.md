@@ -11,6 +11,10 @@ We have preprocessed counties data and uploaded it to data folder, if you want t
 
 ### All compilation must be done by C++ 11 or later version.
 
+if you have question about running code and Geohash code contact renyu26@bu.edu
+
+if you have question about R-B Tree code, please contact woodywan@bu.edu 
+
 ## How do we implement this?
 
 We use two two methods to handle domestic locations and oversea locations. Geohash is used to find nearest counties of local locations, detailed method is in our presentation slides. R-B tree method is for oversea locations including locations far from North America like Hawaii and GUam. 
