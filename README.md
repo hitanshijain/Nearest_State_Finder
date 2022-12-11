@@ -7,7 +7,7 @@ Then software would do automatic calculation and output nearest counties and the
 
 There are two folders with two methods for different locations, but we have combined them into "project_main.cpp", just make with its makefile and run it.
 
-### We have preprocessed counties data and uploaded it to data folder, if you want to preprocess it, please change the file path in preprocess code.
+We have preprocessed counties data and uploaded it to data folder, if you want to preprocess it, please change the file path in preprocess code.
 
 ### All compilation must be done by C++ 11 or later version.
 
