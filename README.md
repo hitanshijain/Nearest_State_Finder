@@ -5,6 +5,8 @@ This is a semester project for BU EC504 2022, all copyrights reserved.
 Copy files to your computer then complie and run it. After software outputs text, input the location (Latitude, Longitude)
 Then software would do automatic calculation and output nearest counties and their distances in descending order. 
 
+### For locations outside North America, use Geohash code, for locations outside North America, use R-B Tree code.
+
 ## How do we implement this?
 
 We use two two methods to handle domestic locations and oversea locations. Geohash is used to find nearest counties of local locations, detailed method is in our presentation slides. R-B tree method is for oversea locations including locations far from North America like Hawaii and GUam. 
