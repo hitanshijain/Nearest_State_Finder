@@ -5,7 +5,7 @@ This is a semester project for BU EC504 2022, all copyrights reserved.
 Copy files to your computer then complie and run it. After software outputs text, input the location (Latitude, Longitude)
 Then software would do automatic calculation and output nearest counties and their distances in descending order. 
 
-There are two folders with two methods for different locations, but we have combined them into ### project_main.cpp, just make with its makefile and run it.
+There are two folders with two methods for different locations, but we have combined them into "project_main.cpp", just make with its makefile and run it.
 
 ### We have preprocessed counties data and uploaded it to data folder, if you want to preprocess it, please change the file path in preprocess code.
 
