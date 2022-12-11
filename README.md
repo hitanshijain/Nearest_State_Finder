@@ -24,3 +24,7 @@ Presentation link: https://docs.google.com/presentation/d/1p4IA2yMZIYUiWuGP25p6Z
 ## Advantages
 
 Our software can find nearest counties in a very fast speed (Avg 2.4 ms) no matter what location you input. For oversea locations, speed would be a little slow, but it is still under 15 ms, which is significantly faster than other algorithms. 
+
+## More details
+
+All other details about our project are in project report(EC504_ProjectReport.docx) and presentation slides(above).
