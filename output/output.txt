@@ -1,0 +1,78 @@
+### Random Test 1
+loading data...
+Input your latitude[-90,90]: 
+26 
+Input your longitude[-180,180]: 
+-75
+Your location: [26,-75]
+
+Geohash method is applied
+
+Geohash code: dkdevm4s
+10 counties found: 
+County              State	Distance(m)
+Broward             FL		548867.164107
+Palm Beach          FL		550024.387971
+Martin              FL		554009.280638
+Miami-Dade          FL		559038.299639
+St. Lucie           FL		565361.426928
+Indian River        FL		587812.081592
+Okeechobee          FL		605573.412803
+Monroe              FL		617574.388664
+Hendry              FL		618472.524270
+Brevard             FL		622477.569916
+State majority: FL
+Time: 0.081377
+
+### Random Test 2
+loading data...
+Input your latitude[-90,90]: 
+43.25138469304298                     
+Input your longitude[-180,180]: 
+-106.31617719149135
+Your location: [43.2514,-106.316]
+
+Geohash method is applied
+
+Geohash code: 9xsqh9wv
+10 counties found: 
+County              State	Distance(m)
+Natrona             WY		50755.176439
+Converse            WY		72722.605379
+Johnson             WY		90289.765375
+Campbell            WY		127008.091607
+Washakie            WY		132071.769935
+Niobrara            WY		151083.769415
+Weston              WY		155550.109826
+Platte              WY		166423.163962
+Sheridan            WY		177102.871808
+Hot Springs         WY		179406.835818
+State majority: WY
+Time: 0.00605104
+
+### Random Test 3
+
+loading data...
+Input your latitude[-90,90]: 
+43.02872947106641                     
+Input your longitude[-180,180]: 
+-122.09625389442056
+Your location: [43.0287,-122.096]
+
+Geohash method is applied
+
+Geohash code: 9r9hv9hh
+10 counties found: 
+County              State	Distance(m)
+Klamath             OR		52717.448637
+Jackson             OR		84131.566795
+Douglas             OR		91254.334330
+Lane                OR		118100.002797
+Deschutes           OR		121050.505146
+Josephine           OR		140333.455207
+Lake                OR		141794.326243
+Siskiyou            CA		163977.987547
+Linn                OR		166289.647872
+Crook               OR		187160.042865
+State majority: OR
+Time: 0.0062495
