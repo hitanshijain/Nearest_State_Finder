@@ -1,5 +1,7 @@
 # Nearest State Finder
+
 Hi, this is the folder of semester project for BU EC504 2022.
+
 ## How to use?
 
 Copy files to your computer then complie and run it. After software outputs text, input the location (Latitude, Longitude)
